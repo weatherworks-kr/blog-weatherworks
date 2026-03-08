@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on WeatherWorks 블로그</title>
+    <link>https://blog.weatherworks.kr/categories/</link>
+    <description>Recent content in Categories on WeatherWorks 블로그</description>
+    <image>
+      <title>WeatherWorks 블로그</title>
+      <url>https://blog.weatherworks.kr/images/og-default.jpg</url>
+      <link>https://blog.weatherworks.kr/images/og-default.jpg</link>
+    </image>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 08 Mar 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="https://blog.weatherworks.kr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UV 차단 과학</title>
+      <link>https://blog.weatherworks.kr/categories/uv-%EC%B0%A8%EB%8B%A8-%EA%B3%BC%ED%95%99/</link>
+      <pubDate>Sun, 08 Mar 2026 10:00:00 +0900</pubDate>
+      <guid>https://blog.weatherworks.kr/categories/uv-%EC%B0%A8%EB%8B%A8-%EA%B3%BC%ED%95%99/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
