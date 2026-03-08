@@ -1,4 +1,4 @@
-baseURL: "https://blog.weatherworks.kr/"
+baseURL: "https://blog-weatherworks.pages.dev/"
 languageCode: "ko"
 title: "WeatherWorks 블로그"
 theme: "PaperMod"
