@@ -1,0 +1,48 @@
+/* blog-weatherworks: 네이비 블루 & 골드 — 공식 브랜드 느낌 */
+:root {
+    --primary: #1a365d;
+    --secondary: #c9a227;
+    --bg-primary: #f8fafc;
+    --text-primary: #1e293b;
+}
+
+.post-title {
+    color: var(--primary) !important;
+}
+
+.post-content a {
+    color: var(--primary);
+    border-bottom: 2px solid var(--secondary);
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.post-content a:hover {
+    color: var(--secondary);
+    border-bottom-color: var(--primary);
+}
+
+.ltr .entry-cover {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.post-header .post-meta {
+    color: #64748b;
+}
+
+.toc a {
+    color: var(--primary) !important;
+}
+
+header .nav {
+    border-bottom: 3px solid var(--secondary);
+}
+
+.entry .entry-header h2 {
+    color: var(--primary);
+}
+
+footer {
+    border-top: 3px solid var(--secondary);
+}
