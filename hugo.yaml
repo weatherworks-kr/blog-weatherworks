@@ -56,7 +56,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: ""  # Google Search Console 인증 후 추가
+      SiteVerificationTag: "3Zhr9tLHzqklHs6d8LD-NYkyT3jkiRuubC34pUT72iE"  # Google Search Console 인증 후 추가
 
   assets:
     favicon: "/favicon.ico"
